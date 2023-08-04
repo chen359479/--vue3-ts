@@ -1,0 +1,16 @@
+
+$themeColor: var(--themeColor, #fafafa); // 默认主题色 默认为fafafa
+$bgColor:var(--bgColor, #fff); // 默认背景色 默认为fff
+$fontColor: var(--fontColor, #111); // 默认字体和icon颜色
+$activeColor: var(--activeColor, #409EFF); // 选中的颜色，默认同element的蓝色
+
+$w_100:var(--w_100, 100px);
+$w_200:var(--w_200, 200px);
+
+._pagination{
+  position: absolute;
+  left: 0;
+  bottom: 0;
+}
+
+
